@@ -1,61 +1,19 @@
 export const Skill_data = [
     {
-      skill_name: "Html 5",
-      Image: "/html.png",
+      skill_name: "GitHub",
+      Image: "/github.svg",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Css",
-      Image: "/css.png",
+      skill_name: "Jira",
+      Image: "/jira.svg",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Java Script",
-      Image: "/js.png",
-      width: 65,
-      height: 65,
-    },
-    {
-      skill_name: "Tailwind Css",
-      Image: "/tailwind.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "React",
-      Image: "/react.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Redux",
-      Image: "/redux.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "React Query",
-      Image: "/reactquery.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Type Script",
-      Image: "/ts.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Next js 13",
-      Image: "/next.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Framer Motion",
-      Image: "/framer.png",
+      skill_name: "Bitbucket",
+      Image: "/bitbucket.svg",
       width: 80,
       height: 80,
     },
@@ -66,23 +24,17 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Node js",
-      Image: "/node-js.png",
+      skill_name: "Figma",
+      Image: "/figma.png",
       width: 80,
       height: 80,
-    },
-    {
-      skill_name: "Mongo db",
-      Image: "/mongodb.png",
-      width: 40,
-      height: 40,
     },
   
   ];
   
   export const Socials = [
     {
-      name: "Instagram",
+      name: "Telegram",
       src: "/Instagram.png",
     },
     {
@@ -174,6 +126,12 @@ export const Skill_data = [
       height: 80,
     },
     {
+      skill_name: "Laravel",
+      Image: "/laravel.svg",
+      width: 80,
+      height: 80,
+    },
+    {
       skill_name: "Mongo db",
       Image: "/mongodb.png",
       width: 40,
@@ -198,12 +156,6 @@ export const Skill_data = [
       height: 70,
     },
     {
-      skill_name: "Prisma",
-      Image: "/prisma.webp",
-      width: 70,
-      height: 70,
-    },
-    {
       skill_name: "Graphql",
       Image: "/graphql.png",
       width: 80,
@@ -219,8 +171,14 @@ export const Skill_data = [
       height: 70,
     },
     {
-      skill_name: "Tauri",
-      Image: "/tauri.svg",
+      skill_name: "ASP.NET",
+      Image: "/asp.net.png",
+      width: 70,
+      height: 70,
+    },
+    {
+      skill_name: "Ruby on Rails",
+      Image: "/rails.svg",
       width: 70,
       height: 70,
     },
@@ -230,13 +188,19 @@ export const Skill_data = [
       width: 70,
       height: 70,
     },
-  
     {
-      skill_name: "Figma",
-      Image: "/figma.png",
-      width: 50,
-      height: 50,
+      skill_name: "AWS",
+      Image: "/amazon.svg",
+      width: 70,
+      height: 70,
     },
+    {
+      skill_name: "Shopify",
+      Image: "/shopify.svg",
+      width: 70,
+      height: 70,
+    },
+  
   
   ];
   

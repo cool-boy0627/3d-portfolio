@@ -19,7 +19,7 @@ const Navbar = () => {
           />
 
           <span className="font-bold ml-[10px] hidden md:block text-gray-300">
-            Nidheesh
+            Kurt Irimischer
           </span>
         </a>
 
@@ -42,11 +42,11 @@ const Navbar = () => {
             <a
               key={social.name}
               href={
-                social.name === "Instagram"
-                  ? "https://www.instagram.com/nidheesh__kumar/"
+                social.name === "Telegram"
+                  ? "https://web.telegram.org/@CoolBoy0627/"
                   : social.name === "Whatsapp"
-                  ? "https://wa.me/919894551645"
-                  : "https://www.linkedin.com/in/nidheesh-kumar/"
+                  ? "https://wa.me/17248104136"
+                  : "https://www.linkedin.com/in/kurt-irmischer-496896a/"
               }
               target="_blank"
               rel="noopener noreferrer"
